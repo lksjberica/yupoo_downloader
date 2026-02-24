@@ -1,4 +1,7 @@
 # Yupoo Downloader
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Python](https://img.shields.io/badge/python-3.10%2B-green)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 A Python-based tool for downloading images from Yupoo albums and automatically removing EXIF metadata.
 
