@@ -21,4 +21,20 @@ A Python-based tool for downloading images from Yupoo albums and automatically r
 Install dependencies:
 
 ```bash
+
 pip install -r requirements.txt
+
+Run:
+
+python yupoo_downloader.py
+
+Then paste up to 10 Yupoo album URLs when prompted.
+
+Disclaimer
+
+This tool is intended for educational purposes only.
+Users are responsible for complying with the terms of service of the target website and applicable copyright laws.
+
+License
+
+MIT License
