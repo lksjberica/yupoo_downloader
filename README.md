@@ -41,3 +41,5 @@ Users are responsible for complying with the terms of service of the target webs
 License
 
 MIT License
+
+This project is provided as-is. Users are responsible for compliance with applicable laws and platform terms of service.
